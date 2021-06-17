@@ -8,6 +8,6 @@ For using the app\
   $docker build -t nameofyourapp .\
   $docker run -p 8000:8000 nameofyourapp\
 5.Go to the directed url\
-6.add /apidocs to url to access the api\
+6.add '/apidocs' to url to access the api\
 7.Enter the phrases you want to comarpare the meaning of.and then execute to check the label '1' (Convey similar meaning) '0' Sentence(Convey different meaning)\
 Thank You!\
